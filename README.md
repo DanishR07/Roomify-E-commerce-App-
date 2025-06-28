@@ -93,19 +93,33 @@ flutter run
 
 User Home Side
 
-!(https://github.com/user-attachments/assets/a6e18fc8-3001-431c-a099-b0678cf4562a)
+![image](https://github.com/user-attachments/assets/3cf564c9-d745-4646-b181-82fb46205963)
+
+Drawer
 
 ![image-2](https://github.com/user-attachments/assets/5ccdcd7e-46da-4fd0-afa9-9c98b51ffeb8)
 
+Wishlist
+
 ![image-3](https://github.com/user-attachments/assets/94b8ac96-4c76-4db8-9252-bf0f051660dd)
+
+Details Page
 
 ![image-4](https://github.com/user-attachments/assets/39bf70d4-ac43-4767-809b-cfd8a548c92a)
 
+Cart Page
+
 ![image](https://github.com/user-attachments/assets/4d54f4fc-5bc1-4048-bc56-ee5d0c99b30c)
+
+Checkout Page
 
 ![image](https://github.com/user-attachments/assets/f4dc5d2c-cb06-4a92-8546-297ad58dbb9a)
 
+User Orders
+
 ![image](https://github.com/user-attachments/assets/28ec32d2-efc9-45c4-abc4-782e140300fa)
+
+Customer Support
 
 ![image](https://github.com/user-attachments/assets/7aea1069-bfa8-4e66-bd8d-0ca5c7ab6aee)
 
