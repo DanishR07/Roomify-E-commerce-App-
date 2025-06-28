@@ -1,16 +1,115 @@
-# final_lab
 
-A new Flutter project.
+# 🪑 E-Commerce App (Flutter + Firebase)
 
-## Getting Started
+A full-featured furniture e-commerce app developed using Flutter. This application includes user and admin functionalities, supporting login/signup, product listing, cart/wishlist management, order tracking, and real-time chat – all integrated with Firebase services.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 👥 User
+- Sign up / Login (Firebase Auth)
+- Browse products by category
+- Add items to Cart and Wishlist
+- Place orders
+- Chat with Admin
+- View order history
+- Tracks own orders
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🛠️ Admin
+- Add/Edit/Delete Products
+- View and manage orders
+- Respond to customer chats
+- Tells users about their orders
+
+---
+
+## 🧱 Architecture
+
+Follows the **MVVM (Model-View-ViewModel)** architecture for clean separation of concerns:
+
+- **Model**: Defines data structures (`cart_item.dart`, `product.dart`, etc.)
+- **Repository**: Handles Firebase/database interactions
+- **ViewModel**: Business logic and state management
+- **UI**: Widgets and screen implementations
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter**
+- **Firebase** (Auth, Firestore, Storage)
+- **MVVM Architecture**
+- **Provider** (or any state management library used)
+- **Dart**
+
+---
+
+## 📂 Project Structure
+
+```
+lib/
+├── main.dart
+├── firebase_options.dart
+├── data/
+│   └── AuthRepository.dart, media_repository.dart, ...
+├── models/
+│   └── product.dart, cart_item.dart, wishlist_item.dart, ...
+├── ui/
+│   ├── admin/
+│   │   └── product/, orders/, chats/, ...
+│   └── user/
+│       └── home/, cart/, wishlist/, profile/, ...
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/furniture-app.git
+cd furniture-app
+```
+
+### 2. Install Dependencies
+```bash
+flutter pub get
+```
+
+### 3. Setup Firebase
+- Download `google-services.json` (Android) and `GoogleService-Info.plist` (iOS) from Firebase Console
+- Replace in the respective platform folders
+- Update Firebase settings in `firebase_options.dart` if needed
+
+### 4. Run the App
+```bash
+flutter run
+```
+
+---
+
+## 📸 Screenshots
+
+
+---
+
+## 🤝 Contributing
+
+Feel free to open issues or submit pull requests to improve the app. Contributions are welcome!
+
+---
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+#📬 Contact
+
+Maintainer: Danish Riasat
+
+GitHub: DanishR07
+
+Email: danishriasat792@gmail.com
