@@ -112,6 +112,7 @@ Cart Page
 ![image](https://github.com/user-attachments/assets/4d54f4fc-5bc1-4048-bc56-ee5d0c99b30c)
 
 Checkout Page
+
 ![image](https://github.com/user-attachments/assets/94e17728-243d-40ee-bc36-fd3d627d4ca4)
 
 User Orders
@@ -122,28 +123,26 @@ Customer Support
 
 ![image](https://github.com/user-attachments/assets/28ec32d2-efc9-45c4-abc4-782e140300fa)
 
+Admin Home Page
 
 ![image](https://github.com/user-attachments/assets/7aea1069-bfa8-4e66-bd8d-0ca5c7ab6aee)
 
-Admin Home Page
+Drawer
 
 ![image](https://github.com/user-attachments/assets/811cd843-ce31-44fe-997e-a7e60d1c665c)
 
-Drawer
+Admin Orders Page
 
 ![image](https://github.com/user-attachments/assets/9e40a962-fe8d-4cae-8593-b52fb38acfbf)
 
-Admin Orders Page
+Admin Chats
 
 ![image](https://github.com/user-attachments/assets/45dcfb75-4cdc-43c3-b521-bccd8717d056)
 
-Admin Chats
+Specific Chat with Customer
 
 ![image](https://github.com/user-attachments/assets/0f3e5f74-7ae2-4397-90b7-e548e16f8e1e)
 
-Specific Chat with Customer
-
-![Uploading image.png…]()
 
 
 
