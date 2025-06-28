@@ -112,14 +112,16 @@ Cart Page
 ![image](https://github.com/user-attachments/assets/4d54f4fc-5bc1-4048-bc56-ee5d0c99b30c)
 
 Checkout Page
-
-![image](https://github.com/user-attachments/assets/f4dc5d2c-cb06-4a92-8546-297ad58dbb9a)
+![image](https://github.com/user-attachments/assets/94e17728-243d-40ee-bc36-fd3d627d4ca4)
 
 User Orders
 
-![image](https://github.com/user-attachments/assets/28ec32d2-efc9-45c4-abc4-782e140300fa)
+![image](https://github.com/user-attachments/assets/f4dc5d2c-cb06-4a92-8546-297ad58dbb9a)
 
 Customer Support
+
+![image](https://github.com/user-attachments/assets/28ec32d2-efc9-45c4-abc4-782e140300fa)
+
 
 ![image](https://github.com/user-attachments/assets/7aea1069-bfa8-4e66-bd8d-0ca5c7ab6aee)
 
