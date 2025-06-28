@@ -1,0 +1,48 @@
+name: final_furniture
+description: A new Flutter project.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # UI and State Management
+  cupertino_icons: ^1.0.6
+  get: ^4.6.6
+  # Firebase - Updated to latest compatible versions
+  firebase_core: ^2.27.0 # Updated
+  firebase_auth: ^4.17.0 # Updated
+  cloud_firestore: ^4.15.8 # Corrected typo and Updated
+  firebase_storage: ^11.7.0 # Updated
+  firebase_messaging: ^14.9.0 # Updated
+
+  # UI Components
+  flutter_svg: ^2.0.7
+
+  # Image and Media
+  image_picker: ^1.0.4
+  http: ^1.1.0
+  crypto: ^3.0.3  # Added for signature generation
+
+
+  # Animations
+  simple_animations: ^5.0.2
+  intl: ^0.20.2
+  flutter_rating_bar: ^4.0.1
+  provider: ^6.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.3
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
